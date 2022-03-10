@@ -10,7 +10,7 @@ who wants to develop his practical skills.</p>
 
 
 <img src="icons/star.webp" width="30px">&nbsp;***Current tech stack...***
-<p style='text-align: center'>
+<p align = center>
 <img height="100px" width="100px" src="icons/ts-icon.svg" alt="typescript-icon">
 <img height="100px" width="100px" src="icons/react-icon.svg" alt="react-icon">
 <img height="100px" width="100px" src="icons/redux-icon.svg" alt="redux-icon">
@@ -18,7 +18,7 @@ who wants to develop his practical skills.</p>
 <img height="100px" width="100px" src="icons/html-5-icon.svg" alt="html5-icon">
 
 </p>
-<p style='text-align: center'>
+<p align = center>
 <img height="100px" width="100px" src="icons/css-3-icon.svg" alt="css-icon">
 <img height="100px" width="100px" src="icons/java-icon.svg" alt="java-icon">
 <img height="100px" width="100px" src="icons/sass-icon.svg" alt="sass-icon">
