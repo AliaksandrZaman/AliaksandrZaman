@@ -33,6 +33,6 @@ who wants to develop his practical skills.</p>
 <ul>
 <li><a href="https://aliaksandrzaman.github.io/britlex/">Britlex</a></li>
 <li><a href="https://aliaksandrzaman.github.io/pixelArt/">Pixel Art</a></li>
-
+<li><a href="https://aliaksandrzaman.github.io/guess-a-color/">Guess a color</a></li>
 </ul>
 
