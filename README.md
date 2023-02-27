@@ -24,7 +24,7 @@ who wants to develop his practical skills.</p>
 
 
 </p>
-<p style='text-align: center'>
+<p align = center style='text-align: center'>
 <img height="100px" width="100px" src="icons/tailwind-icon.svg" alt="tailwind-icon">
 <img height="100px" width="100px" src="icons/html-5-icon.svg" alt="html5-icon">
 <img height="100px" width="100px" src="icons/css-3-icon.svg" alt="css-icon">
