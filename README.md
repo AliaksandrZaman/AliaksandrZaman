@@ -19,13 +19,13 @@ who wants to develop his practical skills.</p>
 <img height="100px" width="100px" src="icons/cypress-icon.svg" alt="cypress-icon">
 <img height="100px" width="100px" src="icons/nextjs-icon.svg" alt="nextjs-icon">
 <img height="100px" width="100px" src="icons/sass-icon.svg" alt="sass-icon">
-<img height="100px" width="100px" src="icons/tailwind-icon.svg" alt="tailwind-icon">
+
 
 
 
 </p>
 <p style='text-align: center'>
-<img height="100px" width="100px" src="icons/bootstrap-icon.svg" alt="bootstrap-icon">
+<img height="100px" width="100px" src="icons/tailwind-icon.svg" alt="tailwind-icon">
 <img height="100px" width="100px" src="icons/html-5-icon.svg" alt="html5-icon">
 <img height="100px" width="100px" src="icons/css-3-icon.svg" alt="css-icon">
 <img height="100px" width="100px" src="icons/vite-icon.svg" alt="vite-icon">
