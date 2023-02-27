@@ -15,13 +15,22 @@ who wants to develop his practical skills.</p>
 <img height="100px" width="100px" src="icons/react-icon.svg" alt="react-icon">
 <img height="100px" width="100px" src="icons/redux-icon.svg" alt="redux-icon">
 <img height="100px" width="100px" src="icons/javascript-icon.svg" alt="java-script-icon">
-<img height="100px" width="100px" src="icons/html-5-icon.svg" alt="html5-icon">
+<img height="100px" width="100px" src="icons/jest-icon.svg" alt="jest-icon">
+<img height="100px" width="100px" src="icons/cypress-icon.svg" alt="cypress-icon">
+<img height="100px" width="100px" src="icons/nextjs-icon.svg" alt="nextjs-icon">
+<img height="100px" width="100px" src="icons/sass-icon.svg" alt="sass-icon">
+<img height="100px" width="100px" src="icons/tailwind-icon.svg" alt="tailwind-icon">
+
+
 
 </p>
 <p style='text-align: center'>
+<img height="100px" width="100px" src="icons/bootstrap-icon.svg" alt="bootstrap-icon">
+<img height="100px" width="100px" src="icons/html-5-icon.svg" alt="html5-icon">
 <img height="100px" width="100px" src="icons/css-3-icon.svg" alt="css-icon">
+<img height="100px" width="100px" src="icons/vite-icon.svg" alt="vite-icon">
 <img height="100px" width="100px" src="icons/java-icon.svg" alt="java-icon">
-<img height="100px" width="100px" src="icons/sass-icon.svg" alt="sass-icon">
+<img height="100px" width="100px" src="icons/figma-icon.svg" alt="figma-icon">
 </p>
 
 <h3>Current activities</h3>
@@ -33,6 +42,6 @@ who wants to develop his practical skills.</p>
 <ul>
 <li><a href="https://aliaksandrzaman.github.io/britlex/">Britlex</a></li>
 <li><a href="https://aliaksandrzaman.github.io/pixelArt/">Pixel Art</a></li>
-
+<li><a href="https://aliaksandrzaman.github.io/guess-a-color/">Guess a color</a></li>
 </ul>
 
