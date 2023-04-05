@@ -40,8 +40,9 @@ who wants to develop his practical skills.</p>
 
 <h3>Completed Projects</h3>
 <ul>
-<li><a href="https://aliaksandrzaman.github.io/britlex/">Britlex</a></li>
-<li><a href="https://aliaksandrzaman.github.io/pixelArt/">Pixel Art</a></li>
+<li><a href="https://aliaksandrzaman.github.io/staticSiteGenerator/">Static site generator</a></li>
 <li><a href="https://aliaksandrzaman.github.io/guess-a-color/">Guess a color</a></li>
+<li><a href="https://aliaksandrzaman.github.io/pixelArt/">Pixel art</a></li>
+<li><a href="https://aliaksandrzaman.github.io/britlex/">Britlex</a></li>
 </ul>
 
